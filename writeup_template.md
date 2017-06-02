@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 
 [//]: # (v_transform)
 
-[image2]: ./test_images_output/output_color_trans_challenge2.jpg 
+[image3]: ./test_images_output/output_color_trans_challenge2.jpg 
 
 ---
 
